@@ -10,6 +10,8 @@
 
 **CodePen:** [Pupocka](https://www.codewars.com/users/Pupocka)
 
+**Discord:** Pupocka
+
 ## About Me
 I am 30 years old, I have worked with people a lot of time. An engineer by training, but never worked in this direction.
 I'm here because I want to make a change in my life.
@@ -50,4 +52,5 @@ North Caucasus State University
 ## Languages
 
 Russian - native speaker.
+
 English - A2 (B1 in process…)
